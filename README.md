@@ -1,0 +1,2 @@
+The ultimate goal of our project is to construct a tip amount predictor for for-hire-vehicle (FHV) drivers, who are currently unable to know if each trip would incur a tip in the end beforehand. 
+We decided on approaching this problem by utilizing machine learning methods, including regression, tree models and neural networks, to predict tip amount on features contained in our trips dataset and try to minimize prediction error by comparing the RMSE (Root Mean Square Error) among models.
